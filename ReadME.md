@@ -3,7 +3,7 @@
 This is a Course Project for "Computer Organization and Architecture, COE321, Taibah University" made in 3/12/2020 by 
 
 * Eng. Hassan Abed Alhafiz
-* Eng. Abdullah Alzamanan 
+* Eng. Abdullah Alzamanan [Linkedin](https://www.linkedin.com/in/hassan-alhafez-bb6142247)
 * Eng. Riyadh Alzahrani [Twitter](https://twitter.com/Riyadh_z20)  [Linkedin](https://www.linkedin.com/in/riyadh014/)
 
 * Supervised by Dr. Mohammed Alasli

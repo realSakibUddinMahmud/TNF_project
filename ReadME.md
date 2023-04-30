@@ -9,10 +9,10 @@ This is a Course Project for "Computer Organization and Architecture, COE321, Ta
 * Supervised by Dr. Mohammed Alasli
 
 ## __Requirement Programs:__
-[Logisim](http://www.cburch.com/logisim/download.html) Update: 2013-04-29
+- [Logisim](http://www.cburch.com/logisim/download.html) Update: 2013-04-29
 
 
-Java 5 or later "to run `Logisim`
+- Java 5 or later "to run `Logisim`
 
 ## __Project Task:__
 Design using Logisim a single-cycle 32-bit CPU for a subset of the MIPS instructions, as detailed below. 

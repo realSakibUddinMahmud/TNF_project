@@ -4,7 +4,7 @@ This is a Course Project for "Computer Organization and Architecture, COE321, Ta
 
 * Eng. Hassan Abed Alhafiz
 * Eng. Abdullah Alzamanan [Linkedin](https://www.linkedin.com/in/hassan-alhafez-bb6142247)
-* Eng. Riyadh Alzahrani [Twitter](https://twitter.com/Riyadh_z20)  [Linkedin](https://www.linkedin.com/in/riyadh014/)
+* Eng. Riyadh Alzahrani [Linkedin](https://www.linkedin.com/in/riyadh014/) [Twitter](https://twitter.com/Riyadh_z20)  
 
 * Supervised by Dr. Mohammed Alasli
 

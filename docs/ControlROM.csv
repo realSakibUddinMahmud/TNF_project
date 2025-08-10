@@ -1,0 +1,12 @@
+opcode,instr,RegDst,RegWrite,ALUSrc,MemRead,MemWrite,MemToReg,Branch,Jump,ZeroExtImm,UseShamt,ALUOp
+00000,bne,X,0,0,0,0,X,1,0,0,0,SUB
+00001,jmp,X,0,X,0,0,X,0,1,X,0,N/A
+00010,sw,X,0,1,0,1,X,0,0,0,0,ADD
+00011,srl,1,1,0,0,0,0,0,0,0,1,IGN
+00100,andi,0,1,1,0,0,0,0,0,1,0,AND
+00101,add,1,1,0,0,0,0,0,0,0,0,ADD
+00110,nop,X,0,X,0,0,X,0,0,X,0,NOP
+00111,or,1,1,0,0,0,0,0,0,0,0,OR
+01000,lw,0,1,1,1,0,1,0,0,0,0,ADD
+01001,sub,1,1,0,0,0,0,0,0,0,0,SUB
+01010,slti,0,1,1,0,0,0,0,0,0,0,SLT

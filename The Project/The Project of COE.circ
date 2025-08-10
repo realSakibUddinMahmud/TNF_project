@@ -851,13 +851,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="bit20" val="none"/>
       <a name="bit21" val="none"/>
       <a name="bit22" val="none"/>
-      <a name="bit23" val="none"/>
-      <a name="bit24" val="none"/>
-      <a name="bit25" val="none"/>
-      <a name="bit26" val="none"/>
-      <a name="bit27" val="none"/>
-      <a name="bit28" val="none"/>
-      <a name="bit29" val="none"/>
     </comp>
     <comp lib="0" loc="(650,940)" name="Pin">
       <a name="facing" val="north"/>
@@ -2649,22 +2642,22 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="0" loc="(550,300)" name="Splitter">
       <a name="facing" val="west"/>
-      <a name="fanout" val="32"/>
-      <a name="incoming" val="32"/>
+      <a name="fanout" val="23"/>
+      <a name="incoming" val="23"/>
       <a name="appear" val="center"/>
     </comp>
     <comp lib="0" loc="(500,450)" name="Constant">
       <a name="value" val="0x0"/>
     </comp>
     <comp lib="0" loc="(390,220)" name="Pin">
-      <a name="width" val="16"/>
+      <a name="width" val="8"/>
       <a name="tristate" val="false"/>
-      <a name="label" val="Immedaite Addi"/>
+      <a name="label" val="Imm8"/>
       <a name="labelfont" val="SansSerif bold 14"/>
     </comp>
     <comp lib="0" loc="(500,220)" name="Splitter">
-      <a name="fanout" val="16"/>
-      <a name="incoming" val="16"/>
+      <a name="fanout" val="8"/>
+      <a name="incoming" val="8"/>
       <a name="appear" val="center"/>
     </comp>
   </circuit>
@@ -2720,8 +2713,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(500,460)" to="(570,460)"/>
     <comp lib="0" loc="(590,340)" name="Splitter">
       <a name="facing" val="west"/>
-      <a name="fanout" val="32"/>
-      <a name="incoming" val="32"/>
+      <a name="fanout" val="23"/>
+      <a name="incoming" val="23"/>
       <a name="appear" val="center"/>
     </comp>
     <comp lib="0" loc="(480,330)" name="Splitter">
@@ -2733,13 +2726,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="value" val="0x0"/>
     </comp>
     <comp lib="0" loc="(240,320)" name="Pin">
-      <a name="width" val="30"/>
+      <a name="width" val="23"/>
       <a name="tristate" val="false"/>
       <a name="label" val="INPUT +1"/>
       <a name="labelfont" val="SansSerif bold 14"/>
     </comp>
     <comp lib="3" loc="(330,330)" name="Adder">
-      <a name="width" val="30"/>
+      <a name="width" val="23"/>
     </comp>
     <comp lib="0" loc="(670,340)" name="Pin">
       <a name="facing" val="west"/>
